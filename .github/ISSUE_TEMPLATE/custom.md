@@ -3,7 +3,7 @@ name: ToDo template
 about: See .github/ISSUE_TEMPLATE/custom.md
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
-projects: 'YujiMurao/ToDo'
+projects: 'YujiMurao/MyToDo'
 assignees: 'YujiMurao'
 
 ---
